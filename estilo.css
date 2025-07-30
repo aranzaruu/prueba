@@ -1,0 +1,26 @@
+body{
+background: purple;
+
+}
+
+.principal{ 
+    background: rgb(142, 158, 142);
+    text-align: center;
+    padding: 100px ;
+    margin: 20px;
+}
+
+.segunda{ 
+    background: rgb(29, 43, 168);
+    text-align: start;
+    padding: 100px 50px;
+    margin:50px 100px ;
+
+}
+
+.tercera { 
+    background: rgb(155, 1, 1);
+    text-align: end ;
+    padding:25px 200px 50px 100px ;
+    margin: 25px 200px 100px 50px;
+}
